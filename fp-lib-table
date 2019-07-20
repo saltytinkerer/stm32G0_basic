@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name stm32G0_basic_layoutlib)(type KiCad)(uri ${KIPRJMOD}/layoutlib/stm32G0_basic_layoutlib.pretty)(options "")(descr ""))
+)
